@@ -1,0 +1,73 @@
+h1{
+    font-size: 30px;
+}
+header{
+    padding: 5px;
+    color: #000000;
+    background: linear-gradient(#FF4500,#FFA500);
+    font-size: 25px;
+}
+
+li{
+    display: inline;
+    padding: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+.salka{
+    
+    color: #000000;
+    list-style: none;
+}
+a:hover{
+    color:#0000FF;
+    text-decoration: none;
+}
+footer{
+    margin-top: 60px;
+  background-color: #ff5500;
+  display: flex;
+  font-size: 20px;
+   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+}
+.p0p{
+    margin: 0 auto;
+    color: #000000;
+}
+footer, .p0p{
+    padding-top: 12px;
+    padding-bottom: 14px;
+    display: flex;
+    background: linear-gradient(#FFA500,#FF4500);
+}
+.page-header {
+  margin-bottom: 40px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+img{
+    margin-left: 400px;
+
+}
+main{
+    font-size: 30px  ;
+    font-family: "TAHOMA";
+}
+
+.vbok{
+    margin-left: 1100px;
+    line-height: 50px;
+    margin-top: -30px;
+}
+
+.priv{
+    font-weight: bold;
+    margin-left: 300px;
+}
+.vverh{
+
+    margin-top: -200px;
+}
