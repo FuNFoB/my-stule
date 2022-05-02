@@ -1,0 +1,183 @@
+
+h1{
+    font-size: 30px;
+}
+header{
+    padding: 5px;
+    color: #000000;
+    background: linear-gradient(#FF4500,#FFA500);
+    font-size: 25px;
+}
+li{
+    display: inline;
+    padding: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+.salka{
+    
+    color: #000000;
+    list-style: none;
+}
+a:hover{
+    color:#0000FF;
+    text-decoration: none;
+}
+.reg{
+    cursor: pointer;
+    background-color: #FF4500;
+    border-radius: 20px;
+    color: #000000;
+    padding: 10px 20px;
+}
+main{
+    margin: 50px;
+    padding: 60px;
+    margin-top: -80px;
+    
+}
+
+.corzin{
+    font-size: 40px;
+    text-align: center;
+}
+.corzinfon{
+    font-size: 20px;
+    margin-left: 450px;
+    margin-top: 30px;
+    width: 800px;
+    background-color: #FF8C00;
+    color: #000000;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #FF4500;
+    padding: 8px;
+}
+.tovar{
+    padding: 1px;
+}
+.tsen{
+    text-align: right;
+    margin-top: -40px;
+    padding: 1px;
+}
+.kypit{
+    margin-left: 340px;
+    cursor: pointer;
+    background-color: #FF4500;
+    padding: 20px 40px;
+    border-radius: 30px;
+    color: #000000;
+}
+
+.fon{
+    margin-top: 60px;
+    margin-left: 500px;
+    width: 980px;
+    border-top: 500px solid orange;
+    border-left: 300px solid transparent;
+
+}
+.Hit{
+    font-size: 150px;
+    font-weight: bold;
+    margin-top: -420px;
+}
+.hitpr{
+    margin-left: 850px;
+    margin-top: -400px;
+}
+
+.center{
+    margin-top: 150px;
+    text-align: center;
+}
+article{
+    display: inline-block;
+    text-align: center;
+}
+
+.card{
+    width: 320px;
+    height: 400px;
+    background-color: #FF8C00;
+    color: #000000;
+    border-radius: 20px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0;
+
+    border-style: solid;
+    border-color: #FF4500;
+}
+.card_vk{
+    border: none;
+    cursor: pointer;
+    background-color: #FF4500;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #000000;
+}
+.card_price{
+    font-size: 30px;
+    margin: 0 0 30px;
+}
+.card_name{
+    font-size: 30px;
+    margin: 0 0 20px;
+}
+
+.card_vk:hover{
+     background-color: #FF2000;
+}
+
+.txt{
+    margin-top: 120px;
+    font-size: 40px;
+}
+.fut{
+    margin-top: -320px;
+    margin-left: -300px;
+    width: 1300px;
+    border-right: 300px solid transparent;
+    border-top: 400px solid orange;
+}
+.dos{
+    margin-top: 100px;
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.doss{
+    margin-top: -160px;
+    margin-left: 330px;
+    width: 800px;
+    border-right: 100px solid transparent;
+    border-left: 100px solid transparent;
+    border-top: 200px solid #FF8C00;
+}
+footer{
+    margin-top: 10px;
+  background-color: #ff5500;
+  display: flex;
+  font-size: 20px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+}
+.p0p{
+    margin: 0 auto;
+    color: #000000;
+}
+footer, .p0p{
+    padding-top: 12px;
+    padding-bottom: 14px;
+    display: flex;
+    background: linear-gradient(#FFA500,#FF4500);
+}
+
+.page-header {
+  margin-bottom: 40px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+}
